@@ -1,0 +1,13 @@
+to control yellow spaceship use
+w:up
+s:down
+d:right
+q:left
+lctrl:shoot
+
+to control red spaceship use
+up arrow key: up
+down arrow key :down
+left arrow key: left
+right arrow key: right 
+Rctrl:shoot
